@@ -1,7 +1,9 @@
-# micv -----  Completed courses
+# MICV -----  My courses
+
+Front end Developer - Factoria F5, Barcelona 
 
 
-Píldoras Informáticas
+Píldoras Informáticas y académicas 
 
 
 Udemy
@@ -13,10 +15,10 @@ Aprende a programar y crea tus programas desde cero
 Bash - Intérprete de Comandos de Linux. Aprende desde cero
 
 Fundamentos de Programación Web para Principiantes
-Keywords: concept basics, html, css
+Keywords: concept basics, #html, #css
 
 Fundamentos de Javascript
-Keywords: concept basics, javascript
+Keywords: concept basics, #javascript
 
 Sololearn
 Basic courses
@@ -26,15 +28,11 @@ Codecademy
 Basic courses
 Keywords: css,html
 
-Kiko Palomares
-Introducción al Desarrollo web
+OPALO - Desarrollo web
 Keywords: css,html,javascript
 
-In progress
-Kiko Palomares
-JavaScript moderno para principiantes
-Keywords: js
+EducationIt
+Curso de Phyton, Java 
+Introduccion al Desarrollo WEB 
 
 
-Ópalo | Domina la maquetación web de forma profesional
-Keywords: css,Sass,Less, html
