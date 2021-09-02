@@ -18,20 +18,20 @@ Fundamentos de Programación Web para Principiantes
 Keywords: concept basics, #html, #css
 
 Fundamentos de Javascript
-Keywords: concept basics, #javascript
+--Keywords: concept basics, #javascript
 
-Sololearn
+Sololearn---
 Basic courses
-Keywords: javascript,php
+--Keywords: javascript,php
 
-Codecademy
+Codecademy---
 Basic courses
-Keywords: css,html
+--Keywords: css,html
 
-OPALO - Desarrollo web
-Keywords: css,html,javascript
+OPALO --- Desarrollo web
+--Keywords: css,html,javascript
 
-EducationIt
+EducationIt---
 Curso de Phyton, Java 
 Introduccion al Desarrollo WEB 
 
